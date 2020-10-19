@@ -1,3 +1,3 @@
 # COMPUTING METHODS
 
-Assignements for Computing Methods and Data Analisys for Experimental Physics
+Assignements for Computing Methods for Experimental Physics and Data Analisys
