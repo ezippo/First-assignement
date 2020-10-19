@@ -1,6 +1,6 @@
 import unittest
 
-from smart_square import square_function
+from smartsquare.core import square_function
 
 class TestCore(unittest.TestCase):
     """Unittest for smart_square module"""
