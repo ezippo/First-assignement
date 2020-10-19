@@ -41,6 +41,7 @@ def process(file_path):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('infile', type=str, help="Path to the input file")
+    parser.add_argument('-hist', help="Shows the histogram of the letters frequencies")
     args = parser.parse_args()
 
     process(args.infile)
